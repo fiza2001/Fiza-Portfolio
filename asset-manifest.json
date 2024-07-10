@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fiza-Portfolio/static/css/main.c1647d31.css",
+    "main.js": "/Fiza-Portfolio/static/js/main.f84fdf87.js",
+    "static/js/453.1407b060.chunk.js": "/Fiza-Portfolio/static/js/453.1407b060.chunk.js",
+    "index.html": "/Fiza-Portfolio/index.html",
+    "main.c1647d31.css.map": "/Fiza-Portfolio/static/css/main.c1647d31.css.map",
+    "main.f84fdf87.js.map": "/Fiza-Portfolio/static/js/main.f84fdf87.js.map",
+    "453.1407b060.chunk.js.map": "/Fiza-Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1647d31.css",
+    "static/js/main.f84fdf87.js"
+  ]
+}
