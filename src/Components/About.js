@@ -33,7 +33,7 @@ export default function About() {
           </div>
           <br/>
           {/* button */}
-          <a href="/cv.pdf" download="Fiza_Hussain_CV.pdf">
+          <a href={`${process.env.PUBLIC_URL}/cv.pdf`} download="Fiza_Hussain_CV.pdf">
           <button class="btn">Download CV</button>
           </a>
         </div>
