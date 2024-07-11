@@ -1,6 +1,8 @@
 import { Element } from "react-scroll";
 
 export default function About() {
+  const getDate = new Date();
+  const year = getDate.getFullYear();
   return (
     <Element name="section2">
     <section className="abt-root" id="section2">
@@ -19,7 +21,7 @@ export default function About() {
                 <b>Name : </b>Fiza Hussain
               </p>
               <p>
-                <b>Age : </b>23
+                <b>Age : </b>{year - 2001}
               </p>
             </div>
             <div>
