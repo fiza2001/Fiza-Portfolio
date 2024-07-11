@@ -53,7 +53,7 @@ export default function Navbar() {
         {/* profile */}
         <div>
           <img
-            src="./images/profile.jpg"
+            src="./images/profile1.jpg"
             className="profile-img"
             alt="profile-img"
           />

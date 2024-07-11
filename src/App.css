@@ -90,27 +90,33 @@
   margin-bottom: 0;
 }
 .res-nav-top{
-  background-color: #03020a;
+  position: fixed;
+  z-index: 10;
+  width: 100%;
+  background-color: #141415;
   color: white;
   display: flex;
   justify-content: space-between;
   padding-left: 2%;
   padding-right: 2%;
+  border-bottom: 2px solid rgb(92, 89, 89);
 }
 .bars-icon{
   background-color: transparent;
   border: none;
+  padding-right: 5vw;
 }
 .res-nav-links{
-  margin-top: -0.1%;
+  position: fixed;
+  top: 9%;
+  width: 100vw;
+  z-index: 3;
   margin-left: -10%;
   margin-bottom: 0;
   padding-top: 20px;
   padding-bottom: 20px;
-background: rgba(8, 8, 8, 0.93);
+background: #141415;
 box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-backdrop-filter: blur(0px);
--webkit-backdrop-filter: blur(0px);
   list-style-type: none;
 }
 .res-nav-links li{
@@ -703,6 +709,24 @@ backdrop-filter: blur(0px);
 .login .links a {
   color: #fff;
   text-decoration: none;
+}
+@media (max-width: 464px) {
+  .login .inputBx{
+    width: 50vw;
+  }
+  .inp2{
+    width: 50vw;
+  }
+  .login{
+    left: 6vw;
+  }
+  .login .inputBx input[type="submit"]{
+    width: 66vw;
+  }
+  .ring{
+    width: 600px;
+    height: 600px;
+  }
 }
 
 .contact-main{
