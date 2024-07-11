@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Fiza-Portfolio/static/css/main.c840360a.css",
-    "main.js": "/Fiza-Portfolio/static/js/main.de4d2efa.js",
+    "main.js": "/Fiza-Portfolio/static/js/main.0bcd77d1.js",
     "static/js/453.1407b060.chunk.js": "/Fiza-Portfolio/static/js/453.1407b060.chunk.js",
     "index.html": "/Fiza-Portfolio/index.html",
     "main.c840360a.css.map": "/Fiza-Portfolio/static/css/main.c840360a.css.map",
-    "main.de4d2efa.js.map": "/Fiza-Portfolio/static/js/main.de4d2efa.js.map",
+    "main.0bcd77d1.js.map": "/Fiza-Portfolio/static/js/main.0bcd77d1.js.map",
     "453.1407b060.chunk.js.map": "/Fiza-Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c840360a.css",
-    "static/js/main.de4d2efa.js"
+    "static/js/main.0bcd77d1.js"
   ]
 }
